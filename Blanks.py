@@ -22,7 +22,7 @@ def blanks(array, index):
 
 if __name__ == '__main__':
     print("Blanks")
-
+    
     array_1 =   [["s", "m" ," ", "h"],
                  ["h", " ", " ", "s"],   
                  ["m", " ", "m", "m"]]
